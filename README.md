@@ -26,59 +26,64 @@ Create a directory named "my-folder"
 ![alt text](img9/1.png)
 
 ## COMMAND AND OUTPUT
-![Screenshot 2025-05-19 233546](https://github.com/user-attachments/assets/4cf95b06-d2ea-430d-97d7-7a4029b37e78)
+![alt text](img9/2.png)
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-![Screenshot 2025-05-19 233607](https://github.com/user-attachments/assets/a84ae75d-2a75-4994-b015-e917614d5494)
-
+![alt text](img9/3.png)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-![Screenshot 2025-05-19 233655](https://github.com/user-attachments/assets/414b1d50-02b5-44af-bf21-44a280e726c5)
+![alt text](img9/4.png)
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-![Screenshot 2025-05-19 233730](https://github.com/user-attachments/assets/b4d4b71f-4f7f-4524-bdb1-75dc4e7cccf5)
+![alt text](img9/5.png)
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-![Screenshot 2025-05-19 233818](https://github.com/user-attachments/assets/92e9dde2-6ca0-4f90-b245-32d644d7cd41)
-
+![alt text](img9/6.png)
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
-![Screenshot 2025-05-19 233953](https://github.com/user-attachments/assets/03deabd9-0b1f-4b62-a0e7-9b9b6bca4443)
+![alt text](img9/7.png)
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-![Screenshot 2025-05-19 234053](https://github.com/user-attachments/assets/14e75375-81a3-4abe-aabf-55fef22f95d8)
+![alt text](img9/8.png)
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-![Screenshot 2025-05-19 234158](https://github.com/user-attachments/assets/e9178588-0f7d-427b-a413-01faaf13a41a)
-![Screenshot 2025-05-19 234216](https://github.com/user-attachments/assets/61696791-d552-42b4-ac4b-8e9c65720a70)
-![Screenshot 2025-05-19 234227](https://github.com/user-attachments/assets/38051720-0261-458a-9d98-d52a422c333f)
-![Screenshot 2025-05-19 234239](https://github.com/user-attachments/assets/7cfe05d9-e665-4dc1-b3a2-918c72fea4d8)
-![Screenshot 2025-05-19 234258](https://github.com/user-attachments/assets/1eec38e8-bab4-4190-8916-798036ae391f)
-![Screenshot 2025-05-19 234310](https://github.com/user-attachments/assets/7871388f-5c50-4006-b845-e02b0539d8f1)
-![Screenshot 2025-05-19 234321](https://github.com/user-attachments/assets/95a26b83-5058-4024-acb4-920ea7fc2be5)
-![Screenshot 2025-05-19 234334](https://github.com/user-attachments/assets/61c76f7b-a27d-4a20-83e9-a8b592f476b5)
-![Screenshot 2025-05-19 234344](https://github.com/user-attachments/assets/34f493d8-8403-44ea-b7c1-4ba0659418e4)
-![Screenshot 2025-05-19 234356](https://github.com/user-attachments/assets/90bcaad6-02b4-4561-aee4-5c8927283f1c)
-
-
+![alt text](img9/9.png)
+![alt text](img9/10.png)
+![alt text](img9/11.png)
+![alt text](img9/12.png)
+![alt text](img9/13.png)
+![alt text](img9/14.png)
+![alt text](img9/15.png)
+![alt text](img9/16.png)
+![alt text](img9/17.png)
+![alt text](img9/18.png)
+![alt text](img9/19.png)
+![alt text](img9/20.png)
+![alt text](img9/21.png)
+![alt text](img9/22.png)
+![alt text](img9/23.png)
+![alt text](img9/24.png)
+![alt text](img9/25.png)
+![alt text](img9/26.png)
+![alt text](img9/27.png)
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-![Screenshot 2025-05-19 234435](https://github.com/user-attachments/assets/6230f7bb-96e9-4bcc-885f-3334cc9b050a)
+![alt text](img9/28.png)
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
@@ -88,9 +93,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
-![Screenshot 2025-06-02 235916](https://github.com/user-attachments/assets/e929f733-7e03-4c2d-8dce-dfc0c4412a0c)
-
-
+![alt text](img9/29.png)
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
@@ -104,8 +107,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-![Screenshot 2025-06-03 000020](https://github.com/user-attachments/assets/d6024c4f-9dd8-4454-9963-3ee2eb2a60af)
-
+!![alt text](img9/30.png)
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -114,7 +116,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
-![Screenshot 2025-06-03 000054](https://github.com/user-attachments/assets/9aec37f0-d13a-4668-86f5-eb1c13511985)
+![alt text](img9/31.png)
 
 
 
@@ -131,7 +133,7 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
-![Screenshot 2025-06-03 000252](https://github.com/user-attachments/assets/50650acb-903c-4415-b732-d445c81f11c8)
+![alt text](img9/32.png)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -148,7 +150,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-![Screenshot 2025-06-03 000348](https://github.com/user-attachments/assets/ec45fd8c-9c4a-4786-95f1-5e6f210f71f0)
+![alt text](img9/33.png)
 
 
 # RESULT:
